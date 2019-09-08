@@ -1,0 +1,45 @@
+.tune-item{
+    height: 200px;
+    width: 200px;
+    background-color:#3b5998;
+    margin: 14px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    text-decoration: none;
+    color: white;
+    border-radius: 60px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.track-name{
+    font-size: 26px;
+    font-weight: bold;
+    margin: 0 8px 5px 8px;
+}
+
+.artist-name{
+    font-size: 16px;
+    margin: 0 12px 0 10px;
+}
+
+.bottom{
+    display: flex;
+    font-size: 14px;
+    margin: 0 12px 0 10px;
+}
+
+.type{
+    margin-right: 5px; 
+    line-height: 1.6;
+}
+
+.year{
+    margin-left: 5px; 
+    line-height: 1.7;
+}

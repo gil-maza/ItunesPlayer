@@ -1,0 +1,72 @@
+.tune-detailed{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 70px 0 0 0;
+}
+
+.tune-detailed-faild{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+}
+
+.message{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.link{
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.detailes{
+    text-align: left;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.main-content{
+    display: flex;
+    flex-direction: column;
+    width: 650px;
+}
+
+.track-name-detailed{
+    font-size: 22px;
+    margin: 0 20px 0 20px;
+}
+
+.artist-name-detailed{
+    margin: 0 20px 10px 20px;
+}
+
+.kind{
+    margin: 0 20px 10px 20px;
+}
+
+.collection{
+    margin: 0 20px 5px 20px;
+}
+.date{
+    margin: 0 20px 0 20px;
+}
+
+.media-player{
+    outline: none;
+}
+
+.under-player{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+.back{
+    justify-self: flex-end;
+    margin-right: 20px;
+}
